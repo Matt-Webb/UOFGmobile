@@ -1,4 +1,5 @@
-$positive: #DE4F4F;
+$positive: #007BBD;
+
 $loading-font-size: 22px;
 
 @import '.meteor/local/build/programs/server/assets/packages/meteoric_ionic-sass/_ionic';
@@ -26,6 +27,10 @@ $loading-font-size: 22px;
       color: #fff;
     }
   }
+}
+
+.pink {
+  color: #DB2C67;
 }
 
 .popover {

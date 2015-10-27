@@ -1,0 +1,65 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "59a1e41ee36951bc5316cfb2c7589e4d7271301b.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/59a1e41ee36951bc5316cfb2c7589e4d7271301b.js",
+      "size": 975713,
+      "hash": "59a1e41ee36951bc5316cfb2c7589e4d7271301b"
+    },
+    {
+      "path": "ebda47d8186c3989d58706a71d202ee24ea1c3f7.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/ebda47d8186c3989d58706a71d202ee24ea1c3f7.css?meteor_css_resource=true",
+      "size": 190376,
+      "hash": "ebda47d8186c3989d58706a71d202ee24ea1c3f7"
+    },
+    {
+      "path": "packages/meteoric_ionicons-sass/fonts/ionicons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/meteoric_ionicons-sass/fonts/ionicons.eot",
+      "size": 121036,
+      "hash": "72b24f245d6746f63000100742da9406ef850b01"
+    },
+    {
+      "path": "packages/meteoric_ionicons-sass/fonts/ionicons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/meteoric_ionicons-sass/fonts/ionicons.svg",
+      "size": 334283,
+      "hash": "aa56b884945b32444dbcb649852c4a5a2b2d7aff"
+    },
+    {
+      "path": "packages/meteoric_ionicons-sass/fonts/ionicons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/meteoric_ionicons-sass/fonts/ionicons.ttf",
+      "size": 188724,
+      "hash": "a7f729edc4624182c4274b40ec83f524459978ed"
+    },
+    {
+      "path": "packages/meteoric_ionicons-sass/fonts/ionicons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/meteoric_ionicons-sass/fonts/ionicons.woff",
+      "size": 68060,
+      "hash": "9ba4bf64c6450f6726dc6542965e46db554f3290"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "dd81d4dd4544f59a3b0e8953cf7e7d4490ca5d2f"
+    }
+  ]
+}
